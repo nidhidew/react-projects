@@ -1,9 +1,9 @@
 import React from 'react'
-import Routing from './Routing'
+import Random_sentance from './Random_sentance'
 export default function App() {
   return (
     <div>
-      <Routing />
+      <Random_sentance />
     </div>
   )
 }
